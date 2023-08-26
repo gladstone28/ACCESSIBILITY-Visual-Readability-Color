@@ -11,7 +11,7 @@
 
 ![](web-accesibility.jpg)i
 
-> According to the Web Content Accessibility Guidelines (WCAG), contrast ratios are classified using a 3-tier hierarchy:
+> According to the [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG20/), contrast ratios are classified using a 3-tier hierarchy:
 
 - Level A is the minimum level.
 - Level AA includes all Level A and AA requirements. Many organizations strive to meet Level AA.
@@ -23,7 +23,7 @@
 - 3:1 (AA criteria)—Text larger than 24px (not bold) and 19px (bold).
 - 7:1 (AAA criteria)—Text that is less than 24px (not bold) and 19px (bold).
 - 4.5:1 (AAA criteria)—Text larger than 24px (not bold) and 19px (bold).
-  > There are a variety of tools that can be used to determine contrast ratios. The Chrome Canary browser has a built-in contrast ratio display inside its developer tools. Another popular stand-alone tool is WebAIM.
+  > There are a variety of tools that can be used to determine contrast ratios. The [Chrome Canary](https://www.google.com/chrome/canary/) browser has a built-in contrast ratio display inside its developer tools. Another popular stand-alone tool is [WebAIM](https://webaim.org/resources/contrastchecker/).
 
 memory jog
 /c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/ACCESSIBILITY-Visual-Readability-Color
