@@ -9,4 +9,21 @@
 
 > Two colors are contrasting when they are from different segments of the color wheel. Thus, the farther apart the segments, the higher the contrast between the two colors. The difference between the two colors is known as the contrast ratio and a minimum contrast ratio must be met in order to adhere to accessibility standards. The minimum contrast ratio denotes how high the contrast is between the text of certain sizes and width on a specific background. This ratio can range from 1:1, where both compared colors are the same, to 21:1, where the two colors are black and white.
 
-![](web-accesibility.jpg)
+![](web-accesibility.jpg)i
+
+> According to the Web Content Accessibility Guidelines (WCAG), contrast ratios are classified using a 3-tier hierarchy:
+
+- Level A is the minimum level.
+- Level AA includes all Level A and AA requirements. Many organizations strive to meet Level AA.
+- Level AAA includes all Level A, AA, and AAA requirements.
+
+  > The recommended minimum contrast ratios between the background and its text using these standards are as follows:
+
+- 4.5:1 (AA criteria)—Text that is less than 24px (not bold) and 19px (bold).
+- 3:1 (AA criteria)—Text larger than 24px (not bold) and 19px (bold).
+- 7:1 (AAA criteria)—Text that is less than 24px (not bold) and 19px (bold).
+- 4.5:1 (AAA criteria)—Text larger than 24px (not bold) and 19px (bold).
+  > There are a variety of tools that can be used to determine contrast ratios. The Chrome Canary browser has a built-in contrast ratio display inside its developer tools. Another popular stand-alone tool is WebAIM.
+
+memory jog
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/ACCESSIBILITY-Visual-Readability-Color
